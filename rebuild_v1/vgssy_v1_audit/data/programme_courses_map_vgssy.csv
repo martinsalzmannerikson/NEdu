@@ -1,0 +1,8 @@
+﻿program_uid,education_plan_uid,course_code,course_name_sv,course_position,study_pace,credits_hp,progression,main_field,course_plan_status,source_file,notes
+VGSSY,VGSSY_v01,MVG201,Introduktion till omvårdnad som arbetsområde och vetenskap samt fysiologi och anatomi del I,1:1,100%,30,G1N,Medicinsk vetenskap,provided,Utbildningsplan_sskgrund_VGSSY.pdf,
+VGSSY,VGSSY_v01,OMG401,Omvårdnad vid vanligt förekommande sjukdomstillstånd samt fysiologi och anatomi del II,1:3,100%,30,G1N,Omvårdnad,provided,Utbildningsplan_sskgrund_VGSSY.pdf,
+VGSSY,VGSSY_v01,OMG402,"Specifik omvårdnad vid folksjukdomar, pediatrik, sexuell- och reproduktiv hälsa",2:1,100%,30,G1N,Omvårdnad,provided,Utbildningsplan_sskgrund_VGSSY.pdf,
+VGSSY,VGSSY_v01,OMG403,"Specifik omvårdnad vid psykisk ohälsa, i akuta situationer och av kvinnor och barn samt sjukdomar inom medicin, kirurgi, infektion och geriatrik",2:3,100%,30,G2F,Omvårdnad,provided,Utbildningsplan_sskgrund_VGSSY.pdf,
+VGSSY,VGSSY_v01,OMG551,Omvårdnad vid komplexa vårdbehov I samt introduktion till självständigt arbete i omvårdnad,3:1,100%,30,G2F,Omvårdnad,provided,Utbildningsplan_sskgrund_VGSSY.pdf,
+VGSSY,VGSSY_v01,OMG805,Självständigt arbete (examensarbete) i omvårdnad,3:3,100%,15,G2E,Omvårdnad,provided,Utbildningsplan_sskgrund_VGSSY.pdf,
+VGSSY,VGSSY_v01,OMG552,Omvårdnad vid komplexa vårdbehov II,3:4,100%,15,G2F,Omvårdnad,missing,Utbildningsplan_sskgrund_VGSSY.pdf,Course is listed in education plan but no course plan was provided for this audit.
