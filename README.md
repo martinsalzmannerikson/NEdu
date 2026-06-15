@@ -38,23 +38,22 @@ Framtida svar bör alltid ange kurskod, kursnamn, program, sektion, exakt textst
 
 ## Radantal
 
-- `changes_log.csv`: 37
+- `changes_log.csv`: 38
 - `concept_candidates_current.csv`: 67
-- `course_content_all_versions.csv`: 559
-- `course_content_current.csv`: 559
-- `course_sections_all_versions.csv`: 1167
-- `course_sections_current.csv`: 1167
+- `course_content_all_versions.csv`: 580
+- `course_content_current.csv`: 580
+- `course_sections_all_versions.csv`: 1218
+- `course_sections_current.csv`: 1218
 - `courses_all_versions.csv`: 36
 - `courses_current.csv`: 36
-- `evidence_chunks_all_versions.jsonl`: 2560
-- `evidence_chunks_current.jsonl`: 2560
-- `examinations_all_versions.csv`: 251
-- `examinations_current.csv`: 251
-- `learning_outcomes_all_versions.csv`: 416
-- `learning_outcomes_current.csv`: 416
+- `evidence_chunks_all_versions.jsonl`: 2611
+- `evidence_chunks_current.jsonl`: 2611
+- `examinations_all_versions.csv`: 260
+- `examinations_current.csv`: 260
+- `learning_outcomes_all_versions.csv`: 430
+- `learning_outcomes_current.csv`: 430
 - `literature_all_versions.csv`: 0
 - `literature_current.csv`: 0
 - `manifest_files.csv`: 44
-- `modules_all_versions.csv`: 168
-- `modules_current.csv`: 168
-
+- `modules_all_versions.csv`: 173
+- `modules_current.csv`: 173

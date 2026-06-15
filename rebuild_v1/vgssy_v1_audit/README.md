@@ -11,8 +11,7 @@ Active sources:
 - OMG403 course plan
 - OMG551 course plan
 - OMG805 course plan
-
-The education plan lists OMG552, but no course plan was provided. It is included only as `missing_course_plan` in the inventory and programme map.
+- OMG552 course plan
 
 Primary files:
 
